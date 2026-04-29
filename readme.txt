@@ -1,6 +1,6 @@
 Aplicación de streamlit sencilla para realizar Decline Curve Analysis y exportar los resultados a un Excel.
 
-Primero se debe seleccionar el archivo Excel en el que están los datos. Tiene que haber una primera columna de fecha en formato dd/mm/yyyy, las siguientes columnas pueden ser cualquier dato, pero se espera que sea producción de un pozo.
+Primero se debe seleccionar el archivo Excel en el que están los datos. Tiene que haber una primera columna de fecha en formato dd/mm/yyyy, las siguientes columnas pueden ser cualquier dato, pero se espera que sea producción de un pozo. Se adjunta un archivo Excel de ejemplo.
 
 Una vez que se cargue el archivo se generará la pantalla principal.
 
