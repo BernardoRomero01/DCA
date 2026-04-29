@@ -14,6 +14,7 @@ En las opciones de la derecha se puede seleccionar, de arriba hacia abajo:
 
 - Los días hacia adelante en los que se quiere realizar el pronóstico de declino, por defecto es 1 año.
 
+La imagen se puede agrandar, hacer zoom o copiar y pegar si se quiere en tu computadora.
 
 Por encima del gráfico se obtiene: el Qi, Di y b de la fórmula de DCA Q=Qi/(1+b*Di*t)^(1/b) y el declino anual, que se obtiene entre el último control (Q1) y el valor de producción un año después(Q2): Declino anual= (Q1-Q2)/Q1*100
 
