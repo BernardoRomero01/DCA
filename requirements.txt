@@ -2,5 +2,5 @@ streamlit
 numpy
 pandas
 plotly
-scipy.optimize
+scipy
 io
